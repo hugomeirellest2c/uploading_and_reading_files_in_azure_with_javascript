@@ -1,4 +1,4 @@
-# Access Azure T2Mining
+# Access Azure Storage Account by Connection String
 
 ### Storage Account Functions:
 
